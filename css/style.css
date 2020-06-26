@@ -319,7 +319,7 @@ h4, .h4 {
   font-size: 1.5rem; }
 
 h5, .h5 {
-  font-size: 1.25rem; }
+  font-size: 1.00rem; }
 
 h6, .h6 {
   font-size: 1rem; }
@@ -8492,7 +8492,7 @@ h1, h2, h3, h4, h5,
     .owl-carousel .owl-item.active {
       opacity: 1; }
   .owl-carousel .owl-dots {
-    text-align: center; }
+    text-align: left; }
     .owl-carousel .owl-dots .owl-dot {
       width: 10px;
       height: 10px;
@@ -8520,14 +8520,14 @@ h1, h2, h3, h4, h5,
         background: #b3b3b3; }
   .owl-carousel.home-slider {
     position: relative;
-    height: 750px;
+    height: 700px;
     z-index: 0;
     background: #faaed5; }
     .owl-carousel.home-slider .slider-item {
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
-      height: 750px;
+      height: 700px;
       position: relative;
       z-index: 0; }
       @media (max-width: 1199.98px) {
@@ -8542,13 +8542,13 @@ h1, h2, h3, h4, h5,
         opacity: 1;
         z-index: -1; }
       .owl-carousel.home-slider .slider-item .slider-text {
-        height: 750px;
+        height: 700px;
         z-index: 0; }
         @media (max-width: 991.98px) {
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
-          width: 65%;
+          width: 50%;
           position: relative;
           z-index: -1;
           background-position: center center; }
@@ -8570,7 +8570,7 @@ h1, h2, h3, h4, h5,
                 opacity: 0; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-forth {
           position: relative;
-          height: 750px; }
+          height: 700px; }
           @media (min-width: 992px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
               position: absolute;
@@ -8602,12 +8602,12 @@ h1, h2, h3, h4, h5,
                 transform: translateY(-50%);
                 right: 0;
                 max-width: 50%;
-                padding-left: 45px;
+                padding-left: 25px;
                 padding-right: 3em; } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           color: #000000;
-          font-weight: 300;
-          font-size: 12px;
+          font-weight: 400;
+          font-size: 17px;
           letter-spacing: 4px;
           text-transform: uppercase;
           display: inline-block;
@@ -9572,10 +9572,10 @@ textarea.form-control {
 .ftco-choose .text {
   width: 100%; }
   .ftco-choose .text .subheading {
-    font-size: 12px;
+    font-size: 8px;
     letter-spacing: 4px;
     color: #000000;
-    font-weight: 600;
+    font-weight: 500;
     text-transform: uppercase; }
   .ftco-choose .text h2 {
     font-weight: 700;
