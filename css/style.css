@@ -8585,6 +8585,7 @@ h1, h2, h3, h4, h5,
           @media (max-width: 1199.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
               width: 100%;
+              heigtht:100%;
               position: absolute;
               top: 0;
               left: 0;
@@ -8604,6 +8605,7 @@ h1, h2, h3, h4, h5,
                 transform: translateY(-50%);
                 right: 0;
                 max-width: 50%;
+                heigtht:100%;
                 padding-left: 25px;
                 padding-right: 3em; } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
