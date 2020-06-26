@@ -8563,6 +8563,7 @@ h1, h2, h3, h4, h5,
           @media (max-width: 1199.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
               width: 100%;
+              heigtht:100%;
               z-index: 0; }
               .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
                 opacity: .3; }
@@ -8570,7 +8571,7 @@ h1, h2, h3, h4, h5,
                 opacity: 0; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-forth {
           position: relative;
-          height: 700px; }
+          height: 1000px; }
           @media (min-width: 992px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
               position: absolute;
@@ -8579,6 +8580,7 @@ h1, h2, h3, h4, h5,
               bottom: 0;
               right: 0;
               width: 1200px;
+              heigth: 100%;
               margin: 0 auto; } }
           @media (max-width: 1199.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
